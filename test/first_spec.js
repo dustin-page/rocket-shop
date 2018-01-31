@@ -1,10 +1,10 @@
-
 var assert = require("assert");
 
 describe("A feautre", function() {
-    describe("A scenario", function() {
+    describe("A scenarion", function() {
         it("does something expected", function() {
-            assert(true);
+            //TODO: Fix this!
+            assert(false, "uh oh!");
         })
     });
 });
